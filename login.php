@@ -41,11 +41,6 @@
                     <button class="btn btn-danger text-white mb-3" style="width:200px">Logout</button>
                 </a>
             </div>
-            <div class="">
-                <a href="logout.php">
-                    <button class="btn btn-success text-white mb-3" style="width:200px">logout</button>
-                </a>
-            </div>
         </div>
         <div class="col-md-5">
             <div class="card">
